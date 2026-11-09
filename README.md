@@ -10,6 +10,7 @@ Os jogos são pensados como materiais de apoio para o professor: cada atividade 
 |---|---|---|
 | [Animal Memory Game](jogos/01-animal-memory-game/) | Relacionar nomes de animais em inglês às suas imagens | HTML, CSS e JavaScript |
 | [School Race](jogos/02-school-race/) | Praticar frases em Present Continuous com vocabulário escolar, em uma corrida entre dois alunos | HTML, CSS e JavaScript |
+| [Monster Battle](jogos/03-monster-battle/) | Ler e imitar frases em Present Continuous com vocabulário escolar, em uma batalha de monstros entre dois alunos | HTML, CSS e JavaScript |
 
 ## Organização do repositório
 
